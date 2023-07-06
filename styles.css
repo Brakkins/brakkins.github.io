@@ -5,12 +5,21 @@ h1
 
 *
 {
-    color: white;
-    background-image: url("brakorderdominos.png");
     text-align: center;
 }
 
 a
 {
     color:pink;
+}
+
+img
+{
+    background-color:pink;
+}
+
+body
+{
+    background-image: url("brakorderdominos.png");
+    color:blueviolet;
 }
