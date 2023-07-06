@@ -2,3 +2,15 @@ h1
 {
     color: red;
 }
+
+*
+{
+    color: white;
+    background-image: url("brakorderdominos.png");
+    text-align: center;
+}
+
+a
+{
+    color:pink;
+}
